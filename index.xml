@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Zi Xun</title>
+    <link>https://gary0417.github.io/Zi_Xun_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Zi Xun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Mar 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://gary0417.github.io/Zi_Xun_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Bangalore House Price Prediction</title>
+      <link>https://gary0417.github.io/Zi_Xun_Portfolio/post/project-1/</link>
+      <pubDate>Fri, 24 Mar 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://gary0417.github.io/Zi_Xun_Portfolio/post/project-1/</guid>
+      <description>🏠 Created a tool that estimates house prices in Bangalore, India, to help buyers and sellers make informed decisions.
+🌳 Optimized Random Forest Regressors using RandomizedSearchCV to achieve the best possible performance.
+🌐 Built a client-facing API using flask which allows users to input the features of a house (such as location, size, and number of bedrooms) and get an estimated price.
+Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://gary0417.github.io/Zi_Xun_Portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gary0417.github.io/Zi_Xun_Portfolio/about/</guid>
+      <description>Hello, I&amp;rsquo;m Zi Xun, a Malaysian student pursuing a degree in Artificial Intelligence at TH Deggendorf. As a curious and passionate individual, I&amp;rsquo;m always fascinated by the power of data to unlock hidden insights and drive informed decision-making. Through my portfolio, I aim to showcase my ability to apply data science techniques to real-world problems, highlighting my approach to solving complex problems with data-driven solutions and my attention to detail.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://gary0417.github.io/Zi_Xun_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gary0417.github.io/Zi_Xun_Portfolio/contact/</guid>
+      <description> Zi Xun Tan 📧 garytanzixun00@gmail.com
+📍 Currently based in Deggendorf, Germany
+Your Name Email Address An email address is required. Message </description>
+    </item>
+    
+  </channel>
+</rss>
