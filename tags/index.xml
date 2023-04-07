@@ -6,13 +6,49 @@
     <description>Recent content in Tags on Zi Xun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Mar 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://gary0417.github.io/Zi_Xun_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Apr 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://gary0417.github.io/Zi_Xun_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Classfication</title>
       <link>https://gary0417.github.io/Zi_Xun_Portfolio/tags/classfication/</link>
-      <pubDate>Fri, 24 Mar 2023 10:58:08 -0400</pubDate>
+      <pubDate>Fri, 07 Apr 2023 10:58:08 -0400</pubDate>
       
       <guid>https://gary0417.github.io/Zi_Xun_Portfolio/tags/classfication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CNN</title>
+      <link>https://gary0417.github.io/Zi_Xun_Portfolio/tags/cnn/</link>
+      <pubDate>Fri, 07 Apr 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://gary0417.github.io/Zi_Xun_Portfolio/tags/cnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FastAPI</title>
+      <link>https://gary0417.github.io/Zi_Xun_Portfolio/tags/fastapi/</link>
+      <pubDate>Fri, 07 Apr 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://gary0417.github.io/Zi_Xun_Portfolio/tags/fastapi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://gary0417.github.io/Zi_Xun_Portfolio/tags/python/</link>
+      <pubDate>Fri, 07 Apr 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://gary0417.github.io/Zi_Xun_Portfolio/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tensorflow</title>
+      <link>https://gary0417.github.io/Zi_Xun_Portfolio/tags/tensorflow/</link>
+      <pubDate>Fri, 07 Apr 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://gary0417.github.io/Zi_Xun_Portfolio/tags/tensorflow/</guid>
       <description></description>
     </item>
     
@@ -67,15 +103,6 @@
       <pubDate>Fri, 24 Mar 2023 10:58:08 -0400</pubDate>
       
       <guid>https://gary0417.github.io/Zi_Xun_Portfolio/tags/pandas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://gary0417.github.io/Zi_Xun_Portfolio/tags/python/</link>
-      <pubDate>Fri, 24 Mar 2023 10:58:08 -0400</pubDate>
-      
-      <guid>https://gary0417.github.io/Zi_Xun_Portfolio/tags/python/</guid>
       <description></description>
     </item>
     
