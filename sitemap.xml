@@ -43,7 +43,22 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://gary0417.github.io/Zi_Xun_Portfolio/tags/data-cleaning/</loc>
-    <lastmod>2023-03-24T10:58:08-04:00</lastmod>
+    <lastmod>2023-03-25T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gary0417.github.io/Zi_Xun_Portfolio/tags/naive-bayes/</loc>
+    <lastmod>2023-03-25T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gary0417.github.io/Zi_Xun_Portfolio/tags/nlp/</loc>
+    <lastmod>2023-03-25T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gary0417.github.io/Zi_Xun_Portfolio/post/project-2/</loc>
+    <lastmod>2023-03-25T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -57,27 +72,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gary0417.github.io/Zi_Xun_Portfolio/tags/naive-bayes/</loc>
-    <lastmod>2023-03-24T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gary0417.github.io/Zi_Xun_Portfolio/tags/nlp/</loc>
-    <lastmod>2023-03-24T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://gary0417.github.io/Zi_Xun_Portfolio/tags/pandas/</loc>
     <lastmod>2023-03-24T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://gary0417.github.io/Zi_Xun_Portfolio/post/project-1/</loc>
-    <lastmod>2023-03-24T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gary0417.github.io/Zi_Xun_Portfolio/post/project-2/</loc>
     <lastmod>2023-03-24T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
