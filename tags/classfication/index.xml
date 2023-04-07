@@ -6,7 +6,19 @@
     <description>Recent content in Classfication on Zi Xun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Mar 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://gary0417.github.io/Zi_Xun_Portfolio/tags/classfication/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Apr 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://gary0417.github.io/Zi_Xun_Portfolio/tags/classfication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3: Tomato Disease Classification</title>
+      <link>https://gary0417.github.io/Zi_Xun_Portfolio/post/project-3/</link>
+      <pubDate>Fri, 07 Apr 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://gary0417.github.io/Zi_Xun_Portfolio/post/project-3/</guid>
+      <description>🍅 This project aims to classify diseases in tomato plants using a Convolutional Neural Network (CNN).
+🌐 A FastAPI web server is built to take in requests for images and return predicted diseases with confidence levels.
+🔗 Link to GitHub Repository
+Model Building The image classification model is built using a CNN architecture implemented with TensorFlow&amp;rsquo;s Keras API. The model architecture consists of multiple Conv2D and MaxPooling2D layers, followed by Flatten and Dropout layers (with a dropout rate of 0.</description>
+    </item>
+    
     <item>
       <title>Project 2: Naive Bayes Spam Filter</title>
       <link>https://gary0417.github.io/Zi_Xun_Portfolio/post/project-2/</link>
