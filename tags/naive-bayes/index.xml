@@ -6,11 +6,11 @@
     <description>Recent content in Naive Bayes on Zi Xun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Mar 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://gary0417.github.io/Zi_Xun_Portfolio/tags/naive-bayes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Mar 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://gary0417.github.io/Zi_Xun_Portfolio/tags/naive-bayes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 2: Naive Bayes Spam Filter</title>
       <link>https://gary0417.github.io/Zi_Xun_Portfolio/post/project-2/</link>
-      <pubDate>Fri, 24 Mar 2023 10:58:08 -0400</pubDate>
+      <pubDate>Sat, 25 Mar 2023 10:58:08 -0400</pubDate>
       
       <guid>https://gary0417.github.io/Zi_Xun_Portfolio/post/project-2/</guid>
       <description>📧 Implemented a spam filter in Python using Naive Bayes from scratch (without the help of pandas and scikit-learn).
