@@ -14,9 +14,8 @@
       
       <guid>https://gary0417.github.io/Zi_Xun_Portfolio/post/project-4/</guid>
       <description>🤔 This project aims to classify whether a question asked on Quora is sincere or not using pre-trained NLP text embedding models from TensorFlow Hub.
-➡️ Transfer learning is performed to fine-tune the models.
 🔗 Link to GitHub Repository
-Data Preprocessing Class imbalance is treated with downsampling technique. The dataset is split into training and validation datasets with an 8:2 ratio. Model Building The text classification model is built using pre-trained NLP text embedding models from Tensorflow Hub.</description>
+Data Preprocessing Class imbalance is treated with downsampling technique. The dataset is split into training and validation datasets with an 8:2 ratio. Model Building The text classification model is built using pre-trained NLP text embedding models from Tensorflow Hub. The model architecture consists of the hub layer which includes the pre-trained model from Tensorflow Hub, followed by Dropout layers (with a dropout rate of 0.</description>
     </item>
     
     <item>
