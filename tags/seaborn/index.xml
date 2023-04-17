@@ -6,13 +6,13 @@
     <description>Recent content in Seaborn on Zi Xun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Mar 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://gary0417.github.io/Zi_Xun_Portfolio/tags/seaborn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Mar 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://gary0417.github.io/Zi_Xun_Portfolio/tags/seaborn/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 1: Bangalore House Price Prediction</title>
-      <link>https://gary0417.github.io/Zi_Xun_Portfolio/post/project-1/</link>
-      <pubDate>Fri, 24 Mar 2023 10:58:08 -0400</pubDate>
+      <title>Project 2: Bangalore House Price Prediction</title>
+      <link>https://gary0417.github.io/Zi_Xun_Portfolio/post/project-2/</link>
+      <pubDate>Sat, 25 Mar 2023 10:58:08 -0400</pubDate>
       
-      <guid>https://gary0417.github.io/Zi_Xun_Portfolio/post/project-1/</guid>
+      <guid>https://gary0417.github.io/Zi_Xun_Portfolio/post/project-2/</guid>
       <description>🏠 Created a tool that estimates house prices in Bangalore, India, to help buyers and sellers make informed decisions.
 🌳 Optimized Random Forest Regressors using RandomizedSearchCV to achieve the best possible performance.
 🌐 Built a client-facing API using flask and a website using HTML, CSS, and JavaScript which allows users to input the features of a house (such as location, size, and number of bedrooms) and get an estimated price.</description>

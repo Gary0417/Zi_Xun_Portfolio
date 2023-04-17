@@ -6,7 +6,19 @@
     <description>Recent content in tensorflow on Zi Xun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Apr 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://gary0417.github.io/Zi_Xun_Portfolio/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Apr 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://gary0417.github.io/Zi_Xun_Portfolio/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4: Quora Insincere Questions Classification</title>
+      <link>https://gary0417.github.io/Zi_Xun_Portfolio/post/project-4/</link>
+      <pubDate>Mon, 17 Apr 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://gary0417.github.io/Zi_Xun_Portfolio/post/project-4/</guid>
+      <description>🤔 This project aims to classify whether a question asked on Quora is sincere or not using pre-trained NLP text embedding models from TensorFlow Hub.
+➡️ Transfer learning is performed to fine-tune the models.
+🔗 Link to GitHub Repository
+Data Preprocessing Class imbalance is treated with downsampling technique. The dataset is split into training and validation datasets with an 8:2 ratio. Model Building The text classification model is built using pre-trained NLP text embedding models from Tensorflow Hub.</description>
+    </item>
+    
     <item>
       <title>Project 3: Tomato Disease Classification</title>
       <link>https://gary0417.github.io/Zi_Xun_Portfolio/post/project-3/</link>
