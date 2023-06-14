@@ -2,32 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gary0417.github.io/Zi_Xun_Portfolio/tags/collaborative-filtering/</loc>
+    <lastmod>2023-06-13T08:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gary0417.github.io/Zi_Xun_Portfolio/tags/content-based-filtering/</loc>
+    <lastmod>2023-06-13T08:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gary0417.github.io/Zi_Xun_Portfolio/tags/cosine-similarity/</loc>
+    <lastmod>2023-06-13T08:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gary0417.github.io/Zi_Xun_Portfolio/</loc>
+    <lastmod>2023-06-13T08:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gary0417.github.io/Zi_Xun_Portfolio/tags/dragio/</loc>
+    <lastmod>2023-06-13T08:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gary0417.github.io/Zi_Xun_Portfolio/tags/hugging-face/</loc>
+    <lastmod>2023-06-13T08:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gary0417.github.io/Zi_Xun_Portfolio/tags/hybrid-recommender-system/</loc>
+    <lastmod>2023-06-13T08:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gary0417.github.io/Zi_Xun_Portfolio/tags/matrix-factorization/</loc>
+    <lastmod>2023-06-13T08:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gary0417.github.io/Zi_Xun_Portfolio/tags/nlp/</loc>
+    <lastmod>2023-06-13T08:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gary0417.github.io/Zi_Xun_Portfolio/post/project-5/</loc>
+    <lastmod>2023-06-13T08:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gary0417.github.io/Zi_Xun_Portfolio/tags/python/</loc>
+    <lastmod>2023-06-13T08:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gary0417.github.io/Zi_Xun_Portfolio/tags/</loc>
+    <lastmod>2023-06-13T08:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://gary0417.github.io/Zi_Xun_Portfolio/tags/classfication/</loc>
     <lastmod>2023-04-17T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gary0417.github.io/Zi_Xun_Portfolio/</loc>
-    <lastmod>2023-04-17T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gary0417.github.io/Zi_Xun_Portfolio/tags/nlp/</loc>
-    <lastmod>2023-04-17T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://gary0417.github.io/Zi_Xun_Portfolio/post/project-4/</loc>
-    <lastmod>2023-04-17T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gary0417.github.io/Zi_Xun_Portfolio/tags/python/</loc>
-    <lastmod>2023-04-17T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gary0417.github.io/Zi_Xun_Portfolio/tags/</loc>
     <lastmod>2023-04-17T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
