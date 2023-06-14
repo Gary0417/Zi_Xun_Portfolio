@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dragio on Zi Xun</title>
+    <link>https://gary0417.github.io/Zi_Xun_Portfolio/tags/dragio/</link>
+    <description>Recent content in Dragio on Zi Xun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Jun 2023 08:58:08 -0400</lastBuildDate><atom:link href="https://gary0417.github.io/Zi_Xun_Portfolio/tags/dragio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 5: Movie Recommendation Systems</title>
+      <link>https://gary0417.github.io/Zi_Xun_Portfolio/post/project-5/</link>
+      <pubDate>Tue, 13 Jun 2023 08:58:08 -0400</pubDate>
+      
+      <guid>https://gary0417.github.io/Zi_Xun_Portfolio/post/project-5/</guid>
+      <description>🎥 This project aims to build a movie recommendation system using content-based filtering and collaborative filtering techniques. The script uses the Sentence Transformers library for content-based filtering and the Surprise library for collaborative filtering.
+🔗 Link to GitHub Repository
+How it works The script first cleans and preprocesses the movie metadata, keywords, and ratings data. It then builds a content-based filtering system by creating a &amp;ldquo;soup&amp;rdquo; of text that includes the genres, original language, overview, tagline, keywords, and production countries for each movie.</description>
+    </item>
+    
+  </channel>
+</rss>
